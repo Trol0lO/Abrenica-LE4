@@ -1,0 +1,10 @@
+C:\Users\james\OneDrive\Desktop\AbrenicaLE2\AbrenicaBlogDB\bin\Debug\AbrenicaBlogDB.dacpac
+C:\Users\james\OneDrive\Desktop\AbrenicaLE2\AbrenicaBlogDB\bin\Debug\AbrenicaBlogDB.dll
+C:\Users\james\OneDrive\Desktop\AbrenicaLE2\AbrenicaBlogDB\bin\Debug\AbrenicaBlogDB.pdb
+C:\Users\james\OneDrive\Desktop\AbrenicaLE2\AbrenicaBlogDB\obj\Debug\AbrenicaBlogDB.sqlproj.AssemblyReference.cache
+C:\Users\james\OneDrive\Desktop\AbrenicaLE2\AbrenicaBlogDB\obj\Debug\AbrenicaBlogDB.dll
+C:\Users\james\OneDrive\Desktop\AbrenicaLE2\AbrenicaBlogDB\obj\Debug\AbrenicaBlogDB.pdb
+C:\Users\james\OneDrive\Desktop\AbrenicaLE2\AbrenicaBlogDB\obj\Debug\Model.xml
+C:\Users\james\OneDrive\Desktop\AbrenicaLE2\AbrenicaBlogDB\obj\Debug\refactor.xml
+C:\Users\james\OneDrive\Desktop\AbrenicaLE2\AbrenicaBlogDB\obj\Debug\postdeploy.sql
+C:\Users\james\OneDrive\Desktop\AbrenicaLE2\AbrenicaBlogDB\obj\Debug\predeploy.sql
